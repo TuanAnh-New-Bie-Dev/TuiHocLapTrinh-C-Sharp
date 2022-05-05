@@ -1,0 +1,16 @@
+D:\Project C# .NET\C#\CS013\bin\Debug\net5.0\CS013.exe
+D:\Project C# .NET\C#\CS013\bin\Debug\net5.0\CS013.deps.json
+D:\Project C# .NET\C#\CS013\bin\Debug\net5.0\CS013.runtimeconfig.json
+D:\Project C# .NET\C#\CS013\bin\Debug\net5.0\CS013.runtimeconfig.dev.json
+D:\Project C# .NET\C#\CS013\bin\Debug\net5.0\CS013.dll
+D:\Project C# .NET\C#\CS013\bin\Debug\net5.0\ref\CS013.dll
+D:\Project C# .NET\C#\CS013\bin\Debug\net5.0\CS013.pdb
+D:\Project C# .NET\C#\CS013\obj\Debug\net5.0\CS013.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\CS013\obj\Debug\net5.0\CS013.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\CS013\obj\Debug\net5.0\CS013.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\CS013\obj\Debug\net5.0\CS013.AssemblyInfo.cs
+D:\Project C# .NET\C#\CS013\obj\Debug\net5.0\CS013.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\CS013\obj\Debug\net5.0\CS013.dll
+D:\Project C# .NET\C#\CS013\obj\Debug\net5.0\ref\CS013.dll
+D:\Project C# .NET\C#\CS013\obj\Debug\net5.0\CS013.pdb
+D:\Project C# .NET\C#\CS013\obj\Debug\net5.0\CS013.genruntimeconfig.cache

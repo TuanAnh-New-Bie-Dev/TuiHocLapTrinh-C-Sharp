@@ -1,0 +1,16 @@
+D:\Project C# .NET\C#\CS_Delegate\obj\Debug\net5.0\CS_Delegate.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\CS_Delegate\obj\Debug\net5.0\CS_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\CS_Delegate\obj\Debug\net5.0\CS_Delegate.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\CS_Delegate\obj\Debug\net5.0\CS_Delegate.AssemblyInfo.cs
+D:\Project C# .NET\C#\CS_Delegate\obj\Debug\net5.0\CS_Delegate.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\CS_Delegate\bin\Debug\net5.0\CS_Delegate.exe
+D:\Project C# .NET\C#\CS_Delegate\bin\Debug\net5.0\CS_Delegate.deps.json
+D:\Project C# .NET\C#\CS_Delegate\bin\Debug\net5.0\CS_Delegate.runtimeconfig.json
+D:\Project C# .NET\C#\CS_Delegate\bin\Debug\net5.0\CS_Delegate.runtimeconfig.dev.json
+D:\Project C# .NET\C#\CS_Delegate\bin\Debug\net5.0\CS_Delegate.dll
+D:\Project C# .NET\C#\CS_Delegate\bin\Debug\net5.0\ref\CS_Delegate.dll
+D:\Project C# .NET\C#\CS_Delegate\bin\Debug\net5.0\CS_Delegate.pdb
+D:\Project C# .NET\C#\CS_Delegate\obj\Debug\net5.0\CS_Delegate.dll
+D:\Project C# .NET\C#\CS_Delegate\obj\Debug\net5.0\ref\CS_Delegate.dll
+D:\Project C# .NET\C#\CS_Delegate\obj\Debug\net5.0\CS_Delegate.pdb
+D:\Project C# .NET\C#\CS_Delegate\obj\Debug\net5.0\CS_Delegate.genruntimeconfig.cache

@@ -1,0 +1,24 @@
+D:\Project C# .NET\C#\usepackage\Utils\bin\Debug\net5.0\Utils.deps.json
+D:\Project C# .NET\C#\usepackage\Utils\bin\Debug\net5.0\Utils.dll
+D:\Project C# .NET\C#\usepackage\Utils\bin\Debug\net5.0\ref\Utils.dll
+D:\Project C# .NET\C#\usepackage\Utils\bin\Debug\net5.0\Utils.pdb
+D:\Project C# .NET\C#\usepackage\Utils\obj\Debug\net5.0\Utils.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\usepackage\Utils\obj\Debug\net5.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\usepackage\Utils\obj\Debug\net5.0\Utils.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\usepackage\Utils\obj\Debug\net5.0\Utils.AssemblyInfo.cs
+D:\Project C# .NET\C#\usepackage\Utils\obj\Debug\net5.0\Utils.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\usepackage\Utils\obj\Debug\net5.0\Utils.dll
+D:\Project C# .NET\C#\usepackage\Utils\obj\Debug\net5.0\ref\Utils.dll
+D:\Project C# .NET\C#\usepackage\Utils\obj\Debug\net5.0\Utils.pdb
+D:\TuiHocLapTrinh\C_Sharp\Utils\bin\Debug\net5.0\Utils.deps.json
+D:\TuiHocLapTrinh\C_Sharp\Utils\bin\Debug\net5.0\Utils.dll
+D:\TuiHocLapTrinh\C_Sharp\Utils\bin\Debug\net5.0\ref\Utils.dll
+D:\TuiHocLapTrinh\C_Sharp\Utils\bin\Debug\net5.0\Utils.pdb
+D:\TuiHocLapTrinh\C_Sharp\Utils\obj\Debug\net5.0\Utils.csproj.AssemblyReference.cache
+D:\TuiHocLapTrinh\C_Sharp\Utils\obj\Debug\net5.0\Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\TuiHocLapTrinh\C_Sharp\Utils\obj\Debug\net5.0\Utils.AssemblyInfoInputs.cache
+D:\TuiHocLapTrinh\C_Sharp\Utils\obj\Debug\net5.0\Utils.AssemblyInfo.cs
+D:\TuiHocLapTrinh\C_Sharp\Utils\obj\Debug\net5.0\Utils.csproj.CoreCompileInputs.cache
+D:\TuiHocLapTrinh\C_Sharp\Utils\obj\Debug\net5.0\Utils.dll
+D:\TuiHocLapTrinh\C_Sharp\Utils\obj\Debug\net5.0\ref\Utils.dll
+D:\TuiHocLapTrinh\C_Sharp\Utils\obj\Debug\net5.0\Utils.pdb

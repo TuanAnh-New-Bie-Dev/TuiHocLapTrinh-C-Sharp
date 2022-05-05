@@ -1,0 +1,16 @@
+D:\Project C# .NET\C#\Anonymous_example\bin\Debug\net5.0\Anonymous_example.exe
+D:\Project C# .NET\C#\Anonymous_example\bin\Debug\net5.0\Anonymous_example.deps.json
+D:\Project C# .NET\C#\Anonymous_example\bin\Debug\net5.0\Anonymous_example.runtimeconfig.json
+D:\Project C# .NET\C#\Anonymous_example\bin\Debug\net5.0\Anonymous_example.runtimeconfig.dev.json
+D:\Project C# .NET\C#\Anonymous_example\bin\Debug\net5.0\Anonymous_example.dll
+D:\Project C# .NET\C#\Anonymous_example\bin\Debug\net5.0\ref\Anonymous_example.dll
+D:\Project C# .NET\C#\Anonymous_example\bin\Debug\net5.0\Anonymous_example.pdb
+D:\Project C# .NET\C#\Anonymous_example\obj\Debug\net5.0\Anonymous_example.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\Anonymous_example\obj\Debug\net5.0\Anonymous_example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\Anonymous_example\obj\Debug\net5.0\Anonymous_example.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\Anonymous_example\obj\Debug\net5.0\Anonymous_example.AssemblyInfo.cs
+D:\Project C# .NET\C#\Anonymous_example\obj\Debug\net5.0\Anonymous_example.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\Anonymous_example\obj\Debug\net5.0\Anonymous_example.dll
+D:\Project C# .NET\C#\Anonymous_example\obj\Debug\net5.0\ref\Anonymous_example.dll
+D:\Project C# .NET\C#\Anonymous_example\obj\Debug\net5.0\Anonymous_example.pdb
+D:\Project C# .NET\C#\Anonymous_example\obj\Debug\net5.0\Anonymous_example.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Project C# .NET\C#\CS_Queue\bin\Debug\net5.0\CS_Queue.exe
+D:\Project C# .NET\C#\CS_Queue\bin\Debug\net5.0\CS_Queue.deps.json
+D:\Project C# .NET\C#\CS_Queue\bin\Debug\net5.0\CS_Queue.runtimeconfig.json
+D:\Project C# .NET\C#\CS_Queue\bin\Debug\net5.0\CS_Queue.runtimeconfig.dev.json
+D:\Project C# .NET\C#\CS_Queue\bin\Debug\net5.0\CS_Queue.dll
+D:\Project C# .NET\C#\CS_Queue\bin\Debug\net5.0\ref\CS_Queue.dll
+D:\Project C# .NET\C#\CS_Queue\bin\Debug\net5.0\CS_Queue.pdb
+D:\Project C# .NET\C#\CS_Queue\obj\Debug\net5.0\CS_Queue.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\CS_Queue\obj\Debug\net5.0\CS_Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\CS_Queue\obj\Debug\net5.0\CS_Queue.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\CS_Queue\obj\Debug\net5.0\CS_Queue.AssemblyInfo.cs
+D:\Project C# .NET\C#\CS_Queue\obj\Debug\net5.0\CS_Queue.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\CS_Queue\obj\Debug\net5.0\CS_Queue.dll
+D:\Project C# .NET\C#\CS_Queue\obj\Debug\net5.0\ref\CS_Queue.dll
+D:\Project C# .NET\C#\CS_Queue\obj\Debug\net5.0\CS_Queue.pdb
+D:\Project C# .NET\C#\CS_Queue\obj\Debug\net5.0\CS_Queue.genruntimeconfig.cache

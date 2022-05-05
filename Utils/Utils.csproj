@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PakageId>THLT.Utils</PakageId>
+    <Version>1.0.0</Version>
+    <Authors>TuiHocLapTrinh</Authors>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+D:\Project C# .NET\C#\CS_Event\bin\Debug\net5.0\CS_Event.exe
+D:\Project C# .NET\C#\CS_Event\bin\Debug\net5.0\CS_Event.deps.json
+D:\Project C# .NET\C#\CS_Event\bin\Debug\net5.0\CS_Event.runtimeconfig.json
+D:\Project C# .NET\C#\CS_Event\bin\Debug\net5.0\CS_Event.runtimeconfig.dev.json
+D:\Project C# .NET\C#\CS_Event\bin\Debug\net5.0\CS_Event.dll
+D:\Project C# .NET\C#\CS_Event\bin\Debug\net5.0\ref\CS_Event.dll
+D:\Project C# .NET\C#\CS_Event\bin\Debug\net5.0\CS_Event.pdb
+D:\Project C# .NET\C#\CS_Event\obj\Debug\net5.0\CS_Event.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\CS_Event\obj\Debug\net5.0\CS_Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\CS_Event\obj\Debug\net5.0\CS_Event.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\CS_Event\obj\Debug\net5.0\CS_Event.AssemblyInfo.cs
+D:\Project C# .NET\C#\CS_Event\obj\Debug\net5.0\CS_Event.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\CS_Event\obj\Debug\net5.0\CS_Event.dll
+D:\Project C# .NET\C#\CS_Event\obj\Debug\net5.0\ref\CS_Event.dll
+D:\Project C# .NET\C#\CS_Event\obj\Debug\net5.0\CS_Event.pdb
+D:\Project C# .NET\C#\CS_Event\obj\Debug\net5.0\CS_Event.genruntimeconfig.cache

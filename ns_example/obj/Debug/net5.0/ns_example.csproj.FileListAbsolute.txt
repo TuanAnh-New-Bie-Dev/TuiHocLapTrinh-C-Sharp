@@ -1,0 +1,16 @@
+D:\Project C# .NET\C#\ns_example\bin\Debug\net5.0\ns_example.exe
+D:\Project C# .NET\C#\ns_example\bin\Debug\net5.0\ns_example.deps.json
+D:\Project C# .NET\C#\ns_example\bin\Debug\net5.0\ns_example.runtimeconfig.json
+D:\Project C# .NET\C#\ns_example\bin\Debug\net5.0\ns_example.runtimeconfig.dev.json
+D:\Project C# .NET\C#\ns_example\bin\Debug\net5.0\ns_example.dll
+D:\Project C# .NET\C#\ns_example\bin\Debug\net5.0\ref\ns_example.dll
+D:\Project C# .NET\C#\ns_example\bin\Debug\net5.0\ns_example.pdb
+D:\Project C# .NET\C#\ns_example\obj\Debug\net5.0\ns_example.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\ns_example\obj\Debug\net5.0\ns_example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\ns_example\obj\Debug\net5.0\ns_example.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\ns_example\obj\Debug\net5.0\ns_example.AssemblyInfo.cs
+D:\Project C# .NET\C#\ns_example\obj\Debug\net5.0\ns_example.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\ns_example\obj\Debug\net5.0\ns_example.dll
+D:\Project C# .NET\C#\ns_example\obj\Debug\net5.0\ref\ns_example.dll
+D:\Project C# .NET\C#\ns_example\obj\Debug\net5.0\ns_example.pdb
+D:\Project C# .NET\C#\ns_example\obj\Debug\net5.0\ns_example.genruntimeconfig.cache

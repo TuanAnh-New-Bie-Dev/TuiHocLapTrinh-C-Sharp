@@ -1,0 +1,16 @@
+D:\Project C# .NET\C#\CS_Queue\bin\Debug\net5.0\CS_QSLinkList.exe
+D:\Project C# .NET\C#\CS_Queue\bin\Debug\net5.0\CS_QSLinkList.deps.json
+D:\Project C# .NET\C#\CS_Queue\bin\Debug\net5.0\CS_QSLinkList.runtimeconfig.json
+D:\Project C# .NET\C#\CS_Queue\bin\Debug\net5.0\CS_QSLinkList.runtimeconfig.dev.json
+D:\Project C# .NET\C#\CS_Queue\bin\Debug\net5.0\CS_QSLinkList.dll
+D:\Project C# .NET\C#\CS_Queue\bin\Debug\net5.0\ref\CS_QSLinkList.dll
+D:\Project C# .NET\C#\CS_Queue\bin\Debug\net5.0\CS_QSLinkList.pdb
+D:\Project C# .NET\C#\CS_Queue\obj\Debug\net5.0\CS_QSLinkList.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\CS_Queue\obj\Debug\net5.0\CS_QSLinkList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\CS_Queue\obj\Debug\net5.0\CS_QSLinkList.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\CS_Queue\obj\Debug\net5.0\CS_QSLinkList.AssemblyInfo.cs
+D:\Project C# .NET\C#\CS_Queue\obj\Debug\net5.0\CS_QSLinkList.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\CS_Queue\obj\Debug\net5.0\CS_QSLinkList.dll
+D:\Project C# .NET\C#\CS_Queue\obj\Debug\net5.0\ref\CS_QSLinkList.dll
+D:\Project C# .NET\C#\CS_Queue\obj\Debug\net5.0\CS_QSLinkList.pdb
+D:\Project C# .NET\C#\CS_Queue\obj\Debug\net5.0\CS_QSLinkList.genruntimeconfig.cache

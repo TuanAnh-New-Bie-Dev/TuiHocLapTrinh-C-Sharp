@@ -1,0 +1,16 @@
+D:\Project C# .NET\C#\CS_Lamda\obj\Debug\net5.0\CS_Lamda.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\CS_Lamda\obj\Debug\net5.0\CS_Lamda.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\CS_Lamda\obj\Debug\net5.0\CS_Lamda.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\CS_Lamda\obj\Debug\net5.0\CS_Lamda.AssemblyInfo.cs
+D:\Project C# .NET\C#\CS_Lamda\obj\Debug\net5.0\CS_Lamda.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\CS_Lamda\bin\Debug\net5.0\CS_Lamda.exe
+D:\Project C# .NET\C#\CS_Lamda\bin\Debug\net5.0\CS_Lamda.deps.json
+D:\Project C# .NET\C#\CS_Lamda\bin\Debug\net5.0\CS_Lamda.runtimeconfig.json
+D:\Project C# .NET\C#\CS_Lamda\bin\Debug\net5.0\CS_Lamda.runtimeconfig.dev.json
+D:\Project C# .NET\C#\CS_Lamda\bin\Debug\net5.0\CS_Lamda.dll
+D:\Project C# .NET\C#\CS_Lamda\bin\Debug\net5.0\ref\CS_Lamda.dll
+D:\Project C# .NET\C#\CS_Lamda\bin\Debug\net5.0\CS_Lamda.pdb
+D:\Project C# .NET\C#\CS_Lamda\obj\Debug\net5.0\CS_Lamda.dll
+D:\Project C# .NET\C#\CS_Lamda\obj\Debug\net5.0\ref\CS_Lamda.dll
+D:\Project C# .NET\C#\CS_Lamda\obj\Debug\net5.0\CS_Lamda.pdb
+D:\Project C# .NET\C#\CS_Lamda\obj\Debug\net5.0\CS_Lamda.genruntimeconfig.cache

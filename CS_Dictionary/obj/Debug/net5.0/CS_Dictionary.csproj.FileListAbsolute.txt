@@ -1,0 +1,16 @@
+D:\Project C# .NET\C#\CS_Dictionary\bin\Debug\net5.0\CS_Dictionary.exe
+D:\Project C# .NET\C#\CS_Dictionary\bin\Debug\net5.0\CS_Dictionary.deps.json
+D:\Project C# .NET\C#\CS_Dictionary\bin\Debug\net5.0\CS_Dictionary.runtimeconfig.json
+D:\Project C# .NET\C#\CS_Dictionary\bin\Debug\net5.0\CS_Dictionary.runtimeconfig.dev.json
+D:\Project C# .NET\C#\CS_Dictionary\bin\Debug\net5.0\CS_Dictionary.dll
+D:\Project C# .NET\C#\CS_Dictionary\bin\Debug\net5.0\ref\CS_Dictionary.dll
+D:\Project C# .NET\C#\CS_Dictionary\bin\Debug\net5.0\CS_Dictionary.pdb
+D:\Project C# .NET\C#\CS_Dictionary\obj\Debug\net5.0\CS_Dictionary.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\CS_Dictionary\obj\Debug\net5.0\CS_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\CS_Dictionary\obj\Debug\net5.0\CS_Dictionary.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\CS_Dictionary\obj\Debug\net5.0\CS_Dictionary.AssemblyInfo.cs
+D:\Project C# .NET\C#\CS_Dictionary\obj\Debug\net5.0\CS_Dictionary.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\CS_Dictionary\obj\Debug\net5.0\CS_Dictionary.dll
+D:\Project C# .NET\C#\CS_Dictionary\obj\Debug\net5.0\ref\CS_Dictionary.dll
+D:\Project C# .NET\C#\CS_Dictionary\obj\Debug\net5.0\CS_Dictionary.pdb
+D:\Project C# .NET\C#\CS_Dictionary\obj\Debug\net5.0\CS_Dictionary.genruntimeconfig.cache

@@ -1,0 +1,38 @@
+D:\Project C# .NET\C#\usepackage\bin\Debug\net5.0\usepackage.exe
+D:\Project C# .NET\C#\usepackage\bin\Debug\net5.0\usepackage.deps.json
+D:\Project C# .NET\C#\usepackage\bin\Debug\net5.0\usepackage.runtimeconfig.json
+D:\Project C# .NET\C#\usepackage\bin\Debug\net5.0\usepackage.runtimeconfig.dev.json
+D:\Project C# .NET\C#\usepackage\bin\Debug\net5.0\usepackage.dll
+D:\Project C# .NET\C#\usepackage\bin\Debug\net5.0\ref\usepackage.dll
+D:\Project C# .NET\C#\usepackage\bin\Debug\net5.0\usepackage.pdb
+D:\Project C# .NET\C#\usepackage\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Project C# .NET\C#\usepackage\obj\Debug\net5.0\usepackage.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\usepackage\obj\Debug\net5.0\usepackage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\usepackage\obj\Debug\net5.0\usepackage.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\usepackage\obj\Debug\net5.0\usepackage.AssemblyInfo.cs
+D:\Project C# .NET\C#\usepackage\obj\Debug\net5.0\usepackage.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\usepackage\obj\Debug\net5.0\usepackage.csproj.CopyComplete
+D:\Project C# .NET\C#\usepackage\obj\Debug\net5.0\usepackage.dll
+D:\Project C# .NET\C#\usepackage\obj\Debug\net5.0\ref\usepackage.dll
+D:\Project C# .NET\C#\usepackage\obj\Debug\net5.0\usepackage.pdb
+D:\Project C# .NET\C#\usepackage\obj\Debug\net5.0\usepackage.genruntimeconfig.cache
+D:\TuiHocLapTrinh\C_Sharp\usepackage\bin\Debug\net5.0\usepackage.exe
+D:\TuiHocLapTrinh\C_Sharp\usepackage\bin\Debug\net5.0\usepackage.deps.json
+D:\TuiHocLapTrinh\C_Sharp\usepackage\bin\Debug\net5.0\usepackage.runtimeconfig.json
+D:\TuiHocLapTrinh\C_Sharp\usepackage\bin\Debug\net5.0\usepackage.runtimeconfig.dev.json
+D:\TuiHocLapTrinh\C_Sharp\usepackage\bin\Debug\net5.0\usepackage.dll
+D:\TuiHocLapTrinh\C_Sharp\usepackage\bin\Debug\net5.0\ref\usepackage.dll
+D:\TuiHocLapTrinh\C_Sharp\usepackage\bin\Debug\net5.0\usepackage.pdb
+D:\TuiHocLapTrinh\C_Sharp\usepackage\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\TuiHocLapTrinh\C_Sharp\usepackage\bin\Debug\net5.0\Utils.dll
+D:\TuiHocLapTrinh\C_Sharp\usepackage\bin\Debug\net5.0\Utils.pdb
+D:\TuiHocLapTrinh\C_Sharp\usepackage\obj\Debug\net5.0\usepackage.csproj.AssemblyReference.cache
+D:\TuiHocLapTrinh\C_Sharp\usepackage\obj\Debug\net5.0\usepackage.GeneratedMSBuildEditorConfig.editorconfig
+D:\TuiHocLapTrinh\C_Sharp\usepackage\obj\Debug\net5.0\usepackage.AssemblyInfoInputs.cache
+D:\TuiHocLapTrinh\C_Sharp\usepackage\obj\Debug\net5.0\usepackage.AssemblyInfo.cs
+D:\TuiHocLapTrinh\C_Sharp\usepackage\obj\Debug\net5.0\usepackage.csproj.CoreCompileInputs.cache
+D:\TuiHocLapTrinh\C_Sharp\usepackage\obj\Debug\net5.0\usepackage.csproj.CopyComplete
+D:\TuiHocLapTrinh\C_Sharp\usepackage\obj\Debug\net5.0\usepackage.dll
+D:\TuiHocLapTrinh\C_Sharp\usepackage\obj\Debug\net5.0\ref\usepackage.dll
+D:\TuiHocLapTrinh\C_Sharp\usepackage\obj\Debug\net5.0\usepackage.pdb
+D:\TuiHocLapTrinh\C_Sharp\usepackage\obj\Debug\net5.0\usepackage.genruntimeconfig.cache

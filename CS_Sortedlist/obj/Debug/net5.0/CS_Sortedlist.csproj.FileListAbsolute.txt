@@ -1,0 +1,16 @@
+D:\Project C# .NET\C#\CS_Sortedlist\obj\Debug\net5.0\CS_Sortedlist.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\CS_Sortedlist\obj\Debug\net5.0\CS_Sortedlist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\CS_Sortedlist\obj\Debug\net5.0\CS_Sortedlist.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\CS_Sortedlist\obj\Debug\net5.0\CS_Sortedlist.AssemblyInfo.cs
+D:\Project C# .NET\C#\CS_Sortedlist\obj\Debug\net5.0\CS_Sortedlist.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\CS_Sortedlist\bin\Debug\net5.0\CS_Sortedlist.exe
+D:\Project C# .NET\C#\CS_Sortedlist\bin\Debug\net5.0\CS_Sortedlist.deps.json
+D:\Project C# .NET\C#\CS_Sortedlist\bin\Debug\net5.0\CS_Sortedlist.runtimeconfig.json
+D:\Project C# .NET\C#\CS_Sortedlist\bin\Debug\net5.0\CS_Sortedlist.runtimeconfig.dev.json
+D:\Project C# .NET\C#\CS_Sortedlist\bin\Debug\net5.0\CS_Sortedlist.dll
+D:\Project C# .NET\C#\CS_Sortedlist\bin\Debug\net5.0\ref\CS_Sortedlist.dll
+D:\Project C# .NET\C#\CS_Sortedlist\bin\Debug\net5.0\CS_Sortedlist.pdb
+D:\Project C# .NET\C#\CS_Sortedlist\obj\Debug\net5.0\CS_Sortedlist.dll
+D:\Project C# .NET\C#\CS_Sortedlist\obj\Debug\net5.0\ref\CS_Sortedlist.dll
+D:\Project C# .NET\C#\CS_Sortedlist\obj\Debug\net5.0\CS_Sortedlist.pdb
+D:\Project C# .NET\C#\CS_Sortedlist\obj\Debug\net5.0\CS_Sortedlist.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Project C# .NET\C#\generic_example\bin\Debug\net5.0\generic_example.exe
+D:\Project C# .NET\C#\generic_example\bin\Debug\net5.0\generic_example.deps.json
+D:\Project C# .NET\C#\generic_example\bin\Debug\net5.0\generic_example.runtimeconfig.json
+D:\Project C# .NET\C#\generic_example\bin\Debug\net5.0\generic_example.runtimeconfig.dev.json
+D:\Project C# .NET\C#\generic_example\bin\Debug\net5.0\generic_example.dll
+D:\Project C# .NET\C#\generic_example\bin\Debug\net5.0\ref\generic_example.dll
+D:\Project C# .NET\C#\generic_example\bin\Debug\net5.0\generic_example.pdb
+D:\Project C# .NET\C#\generic_example\obj\Debug\net5.0\generic_example.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\generic_example\obj\Debug\net5.0\generic_example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\generic_example\obj\Debug\net5.0\generic_example.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\generic_example\obj\Debug\net5.0\generic_example.AssemblyInfo.cs
+D:\Project C# .NET\C#\generic_example\obj\Debug\net5.0\generic_example.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\generic_example\obj\Debug\net5.0\generic_example.dll
+D:\Project C# .NET\C#\generic_example\obj\Debug\net5.0\ref\generic_example.dll
+D:\Project C# .NET\C#\generic_example\obj\Debug\net5.0\generic_example.pdb
+D:\Project C# .NET\C#\generic_example\obj\Debug\net5.0\generic_example.genruntimeconfig.cache

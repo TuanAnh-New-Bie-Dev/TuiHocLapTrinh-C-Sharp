@@ -1,0 +1,16 @@
+D:\Project C# .NET\C#\CS_ExtensionMethod\bin\Debug\net5.0\CS_ExtensionMethod.exe
+D:\Project C# .NET\C#\CS_ExtensionMethod\bin\Debug\net5.0\CS_ExtensionMethod.deps.json
+D:\Project C# .NET\C#\CS_ExtensionMethod\bin\Debug\net5.0\CS_ExtensionMethod.runtimeconfig.json
+D:\Project C# .NET\C#\CS_ExtensionMethod\bin\Debug\net5.0\CS_ExtensionMethod.runtimeconfig.dev.json
+D:\Project C# .NET\C#\CS_ExtensionMethod\bin\Debug\net5.0\CS_ExtensionMethod.dll
+D:\Project C# .NET\C#\CS_ExtensionMethod\bin\Debug\net5.0\ref\CS_ExtensionMethod.dll
+D:\Project C# .NET\C#\CS_ExtensionMethod\bin\Debug\net5.0\CS_ExtensionMethod.pdb
+D:\Project C# .NET\C#\CS_ExtensionMethod\obj\Debug\net5.0\CS_ExtensionMethod.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\CS_ExtensionMethod\obj\Debug\net5.0\CS_ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\CS_ExtensionMethod\obj\Debug\net5.0\CS_ExtensionMethod.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\CS_ExtensionMethod\obj\Debug\net5.0\CS_ExtensionMethod.AssemblyInfo.cs
+D:\Project C# .NET\C#\CS_ExtensionMethod\obj\Debug\net5.0\CS_ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\CS_ExtensionMethod\obj\Debug\net5.0\CS_ExtensionMethod.dll
+D:\Project C# .NET\C#\CS_ExtensionMethod\obj\Debug\net5.0\ref\CS_ExtensionMethod.dll
+D:\Project C# .NET\C#\CS_ExtensionMethod\obj\Debug\net5.0\CS_ExtensionMethod.pdb
+D:\Project C# .NET\C#\CS_ExtensionMethod\obj\Debug\net5.0\CS_ExtensionMethod.genruntimeconfig.cache
