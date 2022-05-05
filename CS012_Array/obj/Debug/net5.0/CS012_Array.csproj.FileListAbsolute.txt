@@ -1,0 +1,16 @@
+D:\Project C# .NET\C#\CS012_Array\bin\Debug\net5.0\CS012_Array.exe
+D:\Project C# .NET\C#\CS012_Array\bin\Debug\net5.0\CS012_Array.deps.json
+D:\Project C# .NET\C#\CS012_Array\bin\Debug\net5.0\CS012_Array.runtimeconfig.json
+D:\Project C# .NET\C#\CS012_Array\bin\Debug\net5.0\CS012_Array.runtimeconfig.dev.json
+D:\Project C# .NET\C#\CS012_Array\bin\Debug\net5.0\CS012_Array.dll
+D:\Project C# .NET\C#\CS012_Array\bin\Debug\net5.0\ref\CS012_Array.dll
+D:\Project C# .NET\C#\CS012_Array\bin\Debug\net5.0\CS012_Array.pdb
+D:\Project C# .NET\C#\CS012_Array\obj\Debug\net5.0\CS012_Array.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\CS012_Array\obj\Debug\net5.0\CS012_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\CS012_Array\obj\Debug\net5.0\CS012_Array.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\CS012_Array\obj\Debug\net5.0\CS012_Array.AssemblyInfo.cs
+D:\Project C# .NET\C#\CS012_Array\obj\Debug\net5.0\CS012_Array.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\CS012_Array\obj\Debug\net5.0\CS012_Array.dll
+D:\Project C# .NET\C#\CS012_Array\obj\Debug\net5.0\ref\CS012_Array.dll
+D:\Project C# .NET\C#\CS012_Array\obj\Debug\net5.0\CS012_Array.pdb
+D:\Project C# .NET\C#\CS012_Array\obj\Debug\net5.0\CS012_Array.genruntimeconfig.cache

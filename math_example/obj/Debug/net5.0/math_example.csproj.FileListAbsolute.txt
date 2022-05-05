@@ -1,0 +1,16 @@
+D:\Project C# .NET\C#\math_example\bin\Debug\net5.0\math_example.exe
+D:\Project C# .NET\C#\math_example\bin\Debug\net5.0\math_example.deps.json
+D:\Project C# .NET\C#\math_example\bin\Debug\net5.0\math_example.runtimeconfig.json
+D:\Project C# .NET\C#\math_example\bin\Debug\net5.0\math_example.runtimeconfig.dev.json
+D:\Project C# .NET\C#\math_example\bin\Debug\net5.0\math_example.dll
+D:\Project C# .NET\C#\math_example\bin\Debug\net5.0\ref\math_example.dll
+D:\Project C# .NET\C#\math_example\bin\Debug\net5.0\math_example.pdb
+D:\Project C# .NET\C#\math_example\obj\Debug\net5.0\math_example.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\math_example\obj\Debug\net5.0\math_example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\math_example\obj\Debug\net5.0\math_example.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\math_example\obj\Debug\net5.0\math_example.AssemblyInfo.cs
+D:\Project C# .NET\C#\math_example\obj\Debug\net5.0\math_example.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\math_example\obj\Debug\net5.0\math_example.dll
+D:\Project C# .NET\C#\math_example\obj\Debug\net5.0\ref\math_example.dll
+D:\Project C# .NET\C#\math_example\obj\Debug\net5.0\math_example.pdb
+D:\Project C# .NET\C#\math_example\obj\Debug\net5.0\math_example.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Project C# .NET\C#\CS012_String\bin\Debug\net5.0\CS012_String.exe
+D:\Project C# .NET\C#\CS012_String\bin\Debug\net5.0\CS012_String.deps.json
+D:\Project C# .NET\C#\CS012_String\bin\Debug\net5.0\CS012_String.runtimeconfig.json
+D:\Project C# .NET\C#\CS012_String\bin\Debug\net5.0\CS012_String.runtimeconfig.dev.json
+D:\Project C# .NET\C#\CS012_String\bin\Debug\net5.0\CS012_String.dll
+D:\Project C# .NET\C#\CS012_String\bin\Debug\net5.0\ref\CS012_String.dll
+D:\Project C# .NET\C#\CS012_String\bin\Debug\net5.0\CS012_String.pdb
+D:\Project C# .NET\C#\CS012_String\obj\Debug\net5.0\CS012_String.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\CS012_String\obj\Debug\net5.0\CS012_String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\CS012_String\obj\Debug\net5.0\CS012_String.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\CS012_String\obj\Debug\net5.0\CS012_String.AssemblyInfo.cs
+D:\Project C# .NET\C#\CS012_String\obj\Debug\net5.0\CS012_String.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\CS012_String\obj\Debug\net5.0\CS012_String.dll
+D:\Project C# .NET\C#\CS012_String\obj\Debug\net5.0\ref\CS012_String.dll
+D:\Project C# .NET\C#\CS012_String\obj\Debug\net5.0\CS012_String.pdb
+D:\Project C# .NET\C#\CS012_String\obj\Debug\net5.0\CS012_String.genruntimeconfig.cache

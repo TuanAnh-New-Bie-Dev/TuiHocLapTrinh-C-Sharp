@@ -1,0 +1,16 @@
+D:\Project C# .NET\C#\CS005_for_while\bin\Debug\net5.0\CS005_for_while.exe
+D:\Project C# .NET\C#\CS005_for_while\bin\Debug\net5.0\CS005_for_while.deps.json
+D:\Project C# .NET\C#\CS005_for_while\bin\Debug\net5.0\CS005_for_while.runtimeconfig.json
+D:\Project C# .NET\C#\CS005_for_while\bin\Debug\net5.0\CS005_for_while.runtimeconfig.dev.json
+D:\Project C# .NET\C#\CS005_for_while\bin\Debug\net5.0\CS005_for_while.dll
+D:\Project C# .NET\C#\CS005_for_while\bin\Debug\net5.0\ref\CS005_for_while.dll
+D:\Project C# .NET\C#\CS005_for_while\bin\Debug\net5.0\CS005_for_while.pdb
+D:\Project C# .NET\C#\CS005_for_while\obj\Debug\net5.0\CS005_for_while.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\CS005_for_while\obj\Debug\net5.0\CS005_for_while.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\CS005_for_while\obj\Debug\net5.0\CS005_for_while.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\CS005_for_while\obj\Debug\net5.0\CS005_for_while.AssemblyInfo.cs
+D:\Project C# .NET\C#\CS005_for_while\obj\Debug\net5.0\CS005_for_while.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\CS005_for_while\obj\Debug\net5.0\CS005_for_while.dll
+D:\Project C# .NET\C#\CS005_for_while\obj\Debug\net5.0\ref\CS005_for_while.dll
+D:\Project C# .NET\C#\CS005_for_while\obj\Debug\net5.0\CS005_for_while.pdb
+D:\Project C# .NET\C#\CS005_for_while\obj\Debug\net5.0\CS005_for_while.genruntimeconfig.cache

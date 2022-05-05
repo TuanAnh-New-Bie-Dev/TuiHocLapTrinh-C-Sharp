@@ -1,0 +1,16 @@
+D:\Project C# .NET\C#\CS001_Helloworld\bin\Debug\net5.0\CS001_Helloworld.exe
+D:\Project C# .NET\C#\CS001_Helloworld\bin\Debug\net5.0\CS001_Helloworld.deps.json
+D:\Project C# .NET\C#\CS001_Helloworld\bin\Debug\net5.0\CS001_Helloworld.runtimeconfig.json
+D:\Project C# .NET\C#\CS001_Helloworld\bin\Debug\net5.0\CS001_Helloworld.runtimeconfig.dev.json
+D:\Project C# .NET\C#\CS001_Helloworld\bin\Debug\net5.0\CS001_Helloworld.dll
+D:\Project C# .NET\C#\CS001_Helloworld\bin\Debug\net5.0\ref\CS001_Helloworld.dll
+D:\Project C# .NET\C#\CS001_Helloworld\bin\Debug\net5.0\CS001_Helloworld.pdb
+D:\Project C# .NET\C#\CS001_Helloworld\obj\Debug\net5.0\CS001_Helloworld.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\CS001_Helloworld\obj\Debug\net5.0\CS001_Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\CS001_Helloworld\obj\Debug\net5.0\CS001_Helloworld.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\CS001_Helloworld\obj\Debug\net5.0\CS001_Helloworld.AssemblyInfo.cs
+D:\Project C# .NET\C#\CS001_Helloworld\obj\Debug\net5.0\CS001_Helloworld.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\CS001_Helloworld\obj\Debug\net5.0\CS001_Helloworld.dll
+D:\Project C# .NET\C#\CS001_Helloworld\obj\Debug\net5.0\ref\CS001_Helloworld.dll
+D:\Project C# .NET\C#\CS001_Helloworld\obj\Debug\net5.0\CS001_Helloworld.pdb
+D:\Project C# .NET\C#\CS001_Helloworld\obj\Debug\net5.0\CS001_Helloworld.genruntimeconfig.cache

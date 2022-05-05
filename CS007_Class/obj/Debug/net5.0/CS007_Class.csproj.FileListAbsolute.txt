@@ -1,0 +1,16 @@
+D:\Project C# .NET\C#\CS007_Class\bin\Debug\net5.0\CS007_Class.exe
+D:\Project C# .NET\C#\CS007_Class\bin\Debug\net5.0\CS007_Class.deps.json
+D:\Project C# .NET\C#\CS007_Class\bin\Debug\net5.0\CS007_Class.runtimeconfig.json
+D:\Project C# .NET\C#\CS007_Class\bin\Debug\net5.0\CS007_Class.runtimeconfig.dev.json
+D:\Project C# .NET\C#\CS007_Class\bin\Debug\net5.0\CS007_Class.dll
+D:\Project C# .NET\C#\CS007_Class\bin\Debug\net5.0\ref\CS007_Class.dll
+D:\Project C# .NET\C#\CS007_Class\bin\Debug\net5.0\CS007_Class.pdb
+D:\Project C# .NET\C#\CS007_Class\obj\Debug\net5.0\CS007_Class.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\CS007_Class\obj\Debug\net5.0\CS007_Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\CS007_Class\obj\Debug\net5.0\CS007_Class.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\CS007_Class\obj\Debug\net5.0\CS007_Class.AssemblyInfo.cs
+D:\Project C# .NET\C#\CS007_Class\obj\Debug\net5.0\CS007_Class.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\CS007_Class\obj\Debug\net5.0\CS007_Class.dll
+D:\Project C# .NET\C#\CS007_Class\obj\Debug\net5.0\ref\CS007_Class.dll
+D:\Project C# .NET\C#\CS007_Class\obj\Debug\net5.0\CS007_Class.pdb
+D:\Project C# .NET\C#\CS007_Class\obj\Debug\net5.0\CS007_Class.genruntimeconfig.cache

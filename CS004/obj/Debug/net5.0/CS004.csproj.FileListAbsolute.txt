@@ -1,0 +1,16 @@
+D:\Project C# .NET\C#\CS004\bin\Debug\net5.0\CS004.exe
+D:\Project C# .NET\C#\CS004\bin\Debug\net5.0\CS004.deps.json
+D:\Project C# .NET\C#\CS004\bin\Debug\net5.0\CS004.runtimeconfig.json
+D:\Project C# .NET\C#\CS004\bin\Debug\net5.0\CS004.runtimeconfig.dev.json
+D:\Project C# .NET\C#\CS004\bin\Debug\net5.0\CS004.dll
+D:\Project C# .NET\C#\CS004\bin\Debug\net5.0\ref\CS004.dll
+D:\Project C# .NET\C#\CS004\bin\Debug\net5.0\CS004.pdb
+D:\Project C# .NET\C#\CS004\obj\Debug\net5.0\CS004.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\CS004\obj\Debug\net5.0\CS004.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\CS004\obj\Debug\net5.0\CS004.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\CS004\obj\Debug\net5.0\CS004.AssemblyInfo.cs
+D:\Project C# .NET\C#\CS004\obj\Debug\net5.0\CS004.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\CS004\obj\Debug\net5.0\CS004.dll
+D:\Project C# .NET\C#\CS004\obj\Debug\net5.0\ref\CS004.dll
+D:\Project C# .NET\C#\CS004\obj\Debug\net5.0\CS004.pdb
+D:\Project C# .NET\C#\CS004\obj\Debug\net5.0\CS004.genruntimeconfig.cache

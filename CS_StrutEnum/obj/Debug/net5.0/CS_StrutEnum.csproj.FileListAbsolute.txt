@@ -1,0 +1,16 @@
+D:\Project C# .NET\C#\CS_StrutEnum\bin\Debug\net5.0\CS_StrutEnum.exe
+D:\Project C# .NET\C#\CS_StrutEnum\bin\Debug\net5.0\CS_StrutEnum.deps.json
+D:\Project C# .NET\C#\CS_StrutEnum\bin\Debug\net5.0\CS_StrutEnum.runtimeconfig.json
+D:\Project C# .NET\C#\CS_StrutEnum\bin\Debug\net5.0\CS_StrutEnum.runtimeconfig.dev.json
+D:\Project C# .NET\C#\CS_StrutEnum\bin\Debug\net5.0\CS_StrutEnum.dll
+D:\Project C# .NET\C#\CS_StrutEnum\bin\Debug\net5.0\ref\CS_StrutEnum.dll
+D:\Project C# .NET\C#\CS_StrutEnum\bin\Debug\net5.0\CS_StrutEnum.pdb
+D:\Project C# .NET\C#\CS_StrutEnum\obj\Debug\net5.0\CS_StrutEnum.csproj.AssemblyReference.cache
+D:\Project C# .NET\C#\CS_StrutEnum\obj\Debug\net5.0\CS_StrutEnum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project C# .NET\C#\CS_StrutEnum\obj\Debug\net5.0\CS_StrutEnum.AssemblyInfoInputs.cache
+D:\Project C# .NET\C#\CS_StrutEnum\obj\Debug\net5.0\CS_StrutEnum.AssemblyInfo.cs
+D:\Project C# .NET\C#\CS_StrutEnum\obj\Debug\net5.0\CS_StrutEnum.csproj.CoreCompileInputs.cache
+D:\Project C# .NET\C#\CS_StrutEnum\obj\Debug\net5.0\CS_StrutEnum.dll
+D:\Project C# .NET\C#\CS_StrutEnum\obj\Debug\net5.0\ref\CS_StrutEnum.dll
+D:\Project C# .NET\C#\CS_StrutEnum\obj\Debug\net5.0\CS_StrutEnum.pdb
+D:\Project C# .NET\C#\CS_StrutEnum\obj\Debug\net5.0\CS_StrutEnum.genruntimeconfig.cache
